@@ -12,4 +12,5 @@ I am a career changer looking to pivot into tech. I find that even though the le
 - [ ] Terraform and Github Actions
 - [ ] Docker
 - [ ] Kubernetes
+- [ ] Ansible (probably)
 
